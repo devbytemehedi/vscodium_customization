@@ -44,15 +44,17 @@ snap install codium --classic
 **Favourite**
 **Themes**
 
-1. [2077 theme](https://github.com/endormi/vscode-2077-theme) by [Endormi](https://github.com/endormi)
+1. [2077 theme](https://github.com/endormi/vscode-2077-theme) by [Endormi](https://github.com/endormi) 
+    <details> <summary> Marketplace </summary> https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme </details>
+
 2. [Learn with Sumit Theme](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme) by [Sumit Saha](https://github.com/learnwithsumit)
 
 **Favourite**
 **Extensions**
 
-1. [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag.git) by [Formulahendry](https://github.com/formulahendry)
-1. [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag.git)
-by [Formulahendry](https://github.com/formulahendry)
+1. [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag.git) by [Formulahendry](https://github.com/formulahendry)  <details> <summary> Marketplace </summary> https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag </details>
+
+1. [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag.git) by [Formulahendry](https://github.com/formulahendry) <details> <summary> Marketplace </summary> https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag </details>
 1. [Better Comments](https://github.com/aaron-bond/better-comments.git) by [Aaron Bond](https://github.com/aaron-bond)
 1. [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker.git) by [Streetsidesoftware](https://github.com/streetsidesoftware)
 1. [Codeium](https://open-vsx.org/extension/Codeium/codeium) by [Exafunction, Inc](https://www.exafunction.com/).
