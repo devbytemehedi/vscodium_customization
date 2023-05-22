@@ -72,6 +72,12 @@ by [PKief](https://github.com/PKief).
 1. [Markdown Preview Github Styling](https://github.com/mjbvz/vscode-github-markdown-preview-style.git) by [Matt Beiner](https://github.com/mjbvz)
 1. [markdownlint](https://github.com/DavidAnson/vscode-markdownlint.git) by [DavidAnson](https://github.com/DavidAnson).
 
+To install these extensions, 
+1. Open [VSCodium](https://github.com/vscodium/vscodium)
+1. Go to the `Extensions` tab
+2. `search` for the Extension name
+3. Click on the `Install` button to add the extension.
+
 ## Settings
 >
 > Latest version of this `settings.json` wil be found [here](https://gist.github.com/iammrmehedi/89ca447e35375c98e83889af3b85e205)
