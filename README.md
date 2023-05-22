@@ -2,7 +2,7 @@
 
 > This guide is intended to be used as a reference for setting up VSCodium.
 
-<!-- <details>
+<details>
 
 <summary>What is VSCodium?</summary>
 
@@ -15,7 +15,7 @@
 
 If you want to migrate from [Visual Studio Code](https://github.com/microsoft/vscode) to [VSCodium](https://github.com/vscodium/vscodium) follow this [Official Guide](https://github.com/VSCodium/vscodium/blob/a02839b466d8d01b8a61ea9611f0b74039538eae/DOCS.md#migrating-from-visual-studio-code-to-vscodium) from [VSCodium](https://github.com/vscodium/vscodium).
 
-</details> -->
+</details>
 
 ## Installing VSCodium
 
