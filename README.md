@@ -99,5 +99,5 @@ snap install codium --classic
 1. Click on the `Install` button to add the extension.
 
 ## Settings
-
-> Latest version of this `settings.json` wil be found [here](./settings.json)
+  [settings.json](./settings.json)
+> Latest version of this file wil be found [here](https://tinyurl.com/vscodium-settings)
