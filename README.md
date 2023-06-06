@@ -1,4 +1,4 @@
-kl# [VSCodium](https://vscodium.com) Setup
+# [VSCodium](https://vscodium.com) Setup
 
 > This guide is intended to be used as a reference for setting up VSCodium.
 
