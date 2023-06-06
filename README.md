@@ -39,78 +39,57 @@ snap install codium --classic
 **Fonts**
 
 * [JetBrainsMono Nerd Font Mono](https://github.com/devbytemehedi/JetBrainsMono).
-* [Operator Mono Ligature](https://github.com/iammrmehedi/Operator-Mono-Ligature)
+* [Operator Mono Ligature](https://github.com/devbytemehedi/Operator-Mono-Ligature)
 
 **Favourite**
 **Themes**
 
-* [2077 theme](https://github.com/endormi/vscode-2077-theme) by [Endormi](https://github.com/endormi)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=Endormi.2077-theme)
-
-* [Learn with Sumit Theme](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme) by [Sumit Saha](https://github.com/learnwithsumit)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme)
+* [2077 theme](https://github.com/endormi/vscode-2077-theme) 
+* [Ayu](#)
+* [Dracula Dark +](#)
+* [Sweet Dracula](#)
+* [Tokyo Night](#)
 
 **Favourite**
 **Extensions**
 
-* [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag.git) by [Formulahendry](https://github.com/formulahendry)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag.git)
 
-* [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag.git) by [Formulahendry](https://github.com/formulahendry)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag.git)
 
-* [Better Comments](https://github.com/aaron-bond/better-comments.git) by [Aaron Bond](https://github.com/aaron-bond)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+* [Better Comments](https://github.com/aaron-bond/better-comments.git) 
 
-* [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker.git) by [Streetsidesoftware](https://github.com/streetsidesoftware)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+* [Code Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker.git)
 
-* [Codeium](https://open-vsx.org/extension/Codeium/codeium) by [Exafunction, Inc](https://www.exafunction.com/).
-  * ➡️ [Marketplace](https://open-vsx.org/extension/Codeium/codeium)
+* [Codeium](https://open-vsx.org/extension/Codeium/codeium)
 
-* [Colorize](https://github.com/kamikillerto/vscode-colorize.git) by [Kamikillerto](https://github.com/kamikillerto).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+* [Colorize](https://github.com/kamikillerto/vscode-colorize.git) 
 
-* [Fluent Icons](https://github.com/misolori/vscode-fluent-icons.git) by [Misolori](https://github.com/misolori).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
+* [Fluent Icons](https://github.com/misolori/vscode-fluent-icons.git)
 
-* [Highlight Maching Tag](https://github.com/vincaslt/vscode-highlight-matching-tag.git) by [VincasLT](https://github.com/vincaslt).
-  * ➡️ [Marketplace](https://open-vsx.org/extension/vincaslt/highlight-matching-tag)
+* [Highlight Maching Tag](https://github.com/vincaslt/vscode-highlight-matching-tag.git) 
 
-* [HTML CSS Support](https://github.com/ecmel/vscode-html-css.git) by [Ecmel](https://github.com/ecmel).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+* [HTML CSS Support](https://github.com/ecmel/vscode-html-css.git)
 
-* [HTMLHint](https://github.com/htmlhint/HTMLHint.git) by [Htmlhint](https://github.com/htmlhint).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
+* [HTML-validate](#)
 
-* [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow.git) by [oderwat](https://github.com/oderwat).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+* [indent-rainbow](https://github.com/oderwat/vscode-indent-rainbow.git) 
 
 * [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme.git)
-   by [PKief](https://github.com/PKief).
 
-* ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.vscode-material-icon-theme)
+* [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense.git) 
 
-* [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense.git) by [ChristianKohler](https://github.com/ChristianKohler).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [CodeSnap](#) 
 
-* [Polacode-2022](https://github.com/jeff-hykin/polacode.git) by [Jeff Hykin](https://github.com/jeff-hykin).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019)
+* [Prettier](https://github.com/prettier/prettier-vscode.git) 
 
-* [Prettier](https://github.com/prettier/prettier-vscode.git) by [Prettier](https://github.com/prettier).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [Live Server (Five Server)](https://github.com/yandeu/five-server-vscode.git)
 
-* [Live Server (Five Server)](https://github.com/yandeu/five-server-vscode.git) by [Yannick](https://github.com/yandeu).
-  * ➡️ [Marketplace](https://open-vsx.org/extension/yandeu/five-server)
+* [Reload Can Solve Any Problems](#)
 
-* [Reload](https://github.com/natqe/reload) by [natqe](https://github.com/natqe).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=natqe.reload)
+* [Markdown Preview Github Styling](https://github.com/mjbvz/vscode-github-markdown-preview-style.git) 
 
-* [Markdown Preview Github Styling](https://github.com/mjbvz/vscode-github-markdown-preview-style.git) by [Matt Beiner](https://github.com/mjbvz)
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=mjbvz.vscode-github-markdown-preview-style)
-
-* [markdownlint](https://github.com/DavidAnson/vscode-markdownlint.git) by [DavidAnson](https://github.com/DavidAnson).
-  * ➡️ [Marketplace](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [markdownlint](https://github.com/DavidAnson/vscode-markdownlint.git) 
 
 **To install these extensions,**
 
@@ -121,4 +100,4 @@ snap install codium --classic
 
 ## Settings
 
-> Latest version of this `settings.json` wil be found [here](https://gist.github.com/iammrmehedi/89ca447e35375c98e83889af3b85e205)
+> Latest version of this `settings.json` wil be found [here](./settings.json)
