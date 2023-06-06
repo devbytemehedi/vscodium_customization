@@ -38,7 +38,7 @@ snap install codium --classic
 **Favourite**
 **Fonts**
 
-* [JetBrains Mono](https://github.com/ryanoasis/nerd-fonts/releases?q=JetBrainsMono&expanded=true) of [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
+* [JetBrainsMono Nerd Font Mono](https://github.com/devbytemehedi/JetBrainsMono).
 * [Operator Mono Ligature](https://github.com/iammrmehedi/Operator-Mono-Ligature)
 
 **Favourite**
